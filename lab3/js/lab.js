@@ -6,6 +6,13 @@
 
 // Functions
 
+
+
+// Set up
+// Put pieces only on black squares
+// Get player moves
+  // Loop through players
+// validate moves
 // this is an example function and this comment tells what it doees and what parameters are passed to it.
 function myFunction(param1, param2) {
   // some code here
