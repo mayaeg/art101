@@ -6,4 +6,6 @@
     margin-bottom: 10px;
     border: solid 4px #360c00;
     background-color: #ffc1d5;
+    new1El.style.color = "pink";
+    outputEl.style.border = "dashed 2px green";
   }
